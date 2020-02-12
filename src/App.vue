@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>商城</h2>
+    <h2>vue 商城</h2>
     
   </div>
 </template>
